@@ -1,4 +1,4 @@
-                                   MATLAB PARSER USING FLES AND BISON
+                                 MATLAB PARSER USING FLEX AND BISON
 
 A MATLAB parser is designed using the Flex and Bison tools.
 matlab.l file accepts a simple MATLAB code and generates valid tokens. These tokens are then verified
